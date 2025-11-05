@@ -35,6 +35,8 @@ GEO:
 - AB compartments:
 - Domain:
 - Loop:
+- Enhancer-Promoter Links:
+- TF-Target gene pairs:
 
 ### 2.3 Spatial data
 
